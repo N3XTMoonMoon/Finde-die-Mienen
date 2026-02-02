@@ -17,6 +17,12 @@ Dabei gibt es in dieser Gruppe mit vier Teilnehmener die folgenden Requirements:
 10. Laden eines gespeicherten Spiels soll möglich sein
 11. Mehrspieler variante, bei der der Erste Spieler die Mienen legt und der zweit sie finden muss. Dieses soll über einen PC geregelt sein.
 
+# Ausführen
+Auführbar mit 
+
+dotnet build
+dotnet run
+
 # Originalanforderungen:
 
 "Anwender*innen sollen die Möglichkeit erhalten, die Größe des Spielfelds vor dem Start anzugeben. Nach dem Start des Spiels wird das Spielfeld vom Computer generiert. Auf dem Spielfeld werden Minen zufällig verteilt. Bei jedem Spielzug wählen Spieler Felder. Es gibt die Möglichkeit Felder zu
