@@ -3,21 +3,6 @@
 Eine GUI Anwendung in C#, welche Minesweeper implementieren soll.
 Die Implementierung dient als Abschlussleistung innerhalb des Kurses "DSPC012601 - Programmieren mit C#"
 
-
-## Requirements bei 4 Gruppenmitgliedern
-
-1. Eingabe der Feldgröße bei Spielstart
-2. Verteilung der Minen per Zufallprinzip
-3. Felder können ausgewählt werden um auf diese zu gehen oder als Miene zu markieren
-4. Nach Betreten des Feldes wird die Anzahl an angrenzenden Mienen angezeigt
-5. Spieler verliert eins von drei Leben, wenn es sich um eine Miene handelt
-6. Wenn alle Mienen markiert wurden hat der Spieler gewonnen
-7. Implementierung von drei Spierigkeiten (Leicht, Mittel, Schwer). Diese setzen die Menge an Mienen und deren Nähe zueinander.
-8. Implementierung eines Counters, welcher dem Spieler eine definierte Zeit (Je nach Schwierigkeit) zum lösen des Spiels gibt. Wenn dieser Time auf 0 springt und nicht alle Mienen gefunden wurden, ist das Spiel verloren.
-9. Speichern des Spiels soll möglich sein
-10. Laden eines gespeicherten Spiels soll möglich sein
-11. Mehrspieler variante, bei der der Erste Spieler die Mienen legt und der zweit sie finden muss. Dieses soll über einen PC geregelt sein.
-
 ## Voraussetzungen
 
 - [.NET 10.0 SDK](https://dotnet.microsoft.com/download/dotnet/10.0)
