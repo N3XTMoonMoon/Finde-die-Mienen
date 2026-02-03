@@ -1,1 +1,9 @@
 *.dll
+*.cache
+*.exe
+*.config
+*.so
+*.json
+*.pdb
+*.dylib
+*.editorconfig
